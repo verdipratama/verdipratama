@@ -1,1 +1,1 @@
-### Hello there, I'm [Verdi Pratama!](https://www.instagram.com/verdipratama) 👋
+### Hello there, I'm [Verdi Pratama!](https://id.linkedin.com/in/verdipratama) 👋
