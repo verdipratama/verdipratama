@@ -4,3 +4,5 @@ I am a B.CS. graduate and currently looking for full-time job opportunities to e
 * :mailbox: Reach out to me directly through [Telegram](https://t.me/verdipratama) or [Mail](mailto:verdipratama@yahoo.com)
 
 ![Metrics](https://metrics.lecoq.io/verdipratama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=https%3A%2F%2Fblog.verside.com&pagespeed.detailed=undefined&pagespeed.screenshot=false&config.timezone=Asia%2FJakarta&config.animated=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=verdipratama.verdipratama)
