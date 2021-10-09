@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://github.com/verdipratama/idcart-assets/blob/master/giphy.gif"/>
+<img align="left" height="280" src="https://github.com/verdipratama/idcart-assets/blob/master/giphy.gif"/>
     
     Hey, nice to e-meet you :)
     I am a 'soft'-things engineer.
