@@ -5,7 +5,7 @@
     I make things, I break things & I make things that break things.
     I enjoy anything to do with a computer. programming, networking, and security.
     
-     - Kali 💙
+     - FOSS & Kali 💙
      - Cyber Security Researcher
      - Solo Bounty Hunter
     
